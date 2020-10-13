@@ -1,7 +1,3 @@
-# Projet : Mini jeu - il veulent tous ta POO
-
-Création de 3 jeux
-
 ## Jeu 1
 
 Ce jeu est une duel entre deux joueurs : José et Josiane.
@@ -17,8 +13,3 @@ Tu as 100 points de vie et aura la possibilité d'attaquer un de tes deux enemie
 Ensuite, José et Josiane contre-attaquent.
 Ainsi de suite jusque toi ou tes enemies soient victorieux.
 
-### Jeu 3
-
-Pas fait...
-
-Amuses-toi bien !
